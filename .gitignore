@@ -1,0 +1,8 @@
+### Go Files ###
+/vendor/
+
+### IDE ###
+.vscode/
+
+### Build ###
+/rclone-watchsync
