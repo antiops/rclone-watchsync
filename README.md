@@ -2,6 +2,9 @@
 This project implements watching a local directory and propagates any changes to the destination (see [related rclone issue](https://github.com/rclone/rclone/issues/249)). 
 
 ## Build and usage
+
+**You can download the prebuilt linux binary in [Releases](https://github.com/antiops/rclone-watchsync/releases/)**
+
 Try this by running
 ```
 go build -i 
